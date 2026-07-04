@@ -85,7 +85,7 @@ api-inventario-fastapi/
 
 ---
 
-## 📝 Ejemplo de creación
+## Ejemplo de creación
 
 ```json
 {
